@@ -2,3 +2,15 @@ data/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+# ECG datasets
+data/samitrop_input/
+data/samitrop_wfdb/
+data/ptbxl_input/
+data/ptbxl_wfdb/
+
+# ECG datasets
+data/samitrop_input/
+data/samitrop_wfdb/
+data/ptbxl_input/
+data/ptbxl_wfdb/
